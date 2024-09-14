@@ -3,10 +3,10 @@
 
 ## Мои работы:
 
-Python [Финальный проект курса](https://github.com/sangreguerrer/Netology-Final.git)[Тестовое задание](https://github.com/sangreguerrer/List.prod.git)
-Django [Пример работы с джанго](https://github.com/sangreguerrer/dj-CRUD.git)
-Flask, AsyncIO, AIOHttp [Пример Flask - проекта](https://github.com/sangreguerrer/FlaskHW.git)[AsyncIO, AIOHttp](https://github.com/sangreguerrer/AIO-Star-Wars.git)
-SQL [Финальное по курсу SQL] (https://github.com/sangreguerrer/sql-5.git)
+Python [Финальный проект курса](https://github.com/sangreguerrer/Netology-Final.git)[Тестовое задание](https://github.com/sangreguerrer/List.prod.git).
+Django [Пример работы с джанго](https://github.com/sangreguerrer/dj-CRUD.git).
+Flask, AsyncIO, AIOHttp [Пример Flask - проекта](https://github.com/sangreguerrer/FlaskHW.git)[AsyncIO, AIOHttp](https://github.com/sangreguerrer/AIO-Star-Wars.git).
+SQL [Финальное по курсу SQL](https://github.com/sangreguerrer/sql-5.git).
 
 ## Сертификаты Нетологии:
 https://netology.ru/sharing/3b6239a874bae7e50d7747f9ca6daa7f?utm_source=social&utm_campaign=certificate_lms 
