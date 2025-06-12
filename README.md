@@ -9,7 +9,7 @@
 - SQL [Финальное по курсу SQL](https://github.com/sangreguerrer/sql-5.git).
 
 ### Сертификаты Нетологии:
-- [Сертификат курса]((https://netology.ru/backend/api/user/programs/37590/pdf_certificate))
+- [Сертификат курса](https://netology.ru/backend/api/user/programs/37590/pdf_certificate)
 - [Основы языка программирования python](https://netology.ru/sharing/f678a630706db117a13d7b32670e6fe1?utm_source=social&utm_campaign=certificate_lms)
 - [Базы даныых для python-разработчиков](https://netology.ru/sharing/772a166790dfe7355e6f35374b31a7a2?utm_source=social&utm_campaign=certificate_lms)
 - [ООП и работа с API](https://netology.ru/sharing/a723d1a2fee8df64c0d3ec4e515f7142?utm_source=social&utm_campaign=certificate_lms)
