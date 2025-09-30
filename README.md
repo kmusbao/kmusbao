@@ -1,15 +1,15 @@
-## Привет!
-Я - Борис Кудрявцев, разработчик на Python.
+## Hi!
+I am - Boris, fullstack-developer(FastAPI, Django, React, JS, TS, Apollo).
 
-### Мои работы:
+### My educational projects:
 
-- Python [Финальный проект курса](https://github.com/sangreguerrer/Netology-Final.git), [Тестовое задание](https://github.com/sangreguerrer/List.prod.git).
-- Django [Пример работы с джанго](https://github.com/sangreguerrer/dj-CRUD.git).
-- Flask, AsyncIO, AIOHttp [Пример Flask - проекта](https://github.com/sangreguerrer/FlaskHW.git)[AsyncIO, AIOHttp](https://github.com/sangreguerrer/AIO-Star-Wars.git).
-- SQL [Финальное по курсу SQL](https://github.com/sangreguerrer/sql-5.git).
+- Python [Final course project](https://github.com/sangreguerrer/Netology-Final.git), [Тестовое задание](https://github.com/sangreguerrer/List.prod.git).
+- Django [Django example](https://github.com/sangreguerrer/dj-CRUD.git).
+- Flask, AsyncIO, AIOHttp [Flask project](https://github.com/sangreguerrer/FlaskHW.git)[AsyncIO, AIOHttp](https://github.com/sangreguerrer/AIO-Star-Wars.git).
+- SQL [SQL final task](https://github.com/sangreguerrer/sql-5.git).
 
-### Сертификаты Нетологии:
-- [Сертификат курса](https://netology.ru/backend/api/user/programs/37590/pdf_certificate)
+### Netology Certificates:
+- [Course certificate](https://netology.ru/backend/api/user/programs/37590/pdf_certificate)
 - [Основы языка программирования python](https://netology.ru/sharing/f678a630706db117a13d7b32670e6fe1?utm_source=social&utm_campaign=certificate_lms)
 - [Базы даныых для python-разработчиков](https://netology.ru/sharing/772a166790dfe7355e6f35374b31a7a2?utm_source=social&utm_campaign=certificate_lms)
 - [ООП и работа с API](https://netology.ru/sharing/a723d1a2fee8df64c0d3ec4e515f7142?utm_source=social&utm_campaign=certificate_lms)
