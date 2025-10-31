@@ -1,5 +1,5 @@
 ## Hi!
-I am - Boris, fullstack-developer(FastAPI, Django, React, JS, TS, GraphQL).
+I am Boris, fullstack-developer(FastAPI, Django, React, JS, TS, GraphQL).
 
 ### My educational projects:
 
